@@ -1,1 +1,7 @@
-console.log("Smart Irrigation System Loaded");
+function startPump() {
+    alert("Pump Started");
+}
+
+function stopPump() {
+    alert("Pump Stopped");
+}
