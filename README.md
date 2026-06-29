@@ -1,22 +1,44 @@
-# Smart Irrigation System for Precision Farming
+Smart Irrigation Monitoring System
 
-## Project Description
-The Smart Irrigation System for Precision Farming is an automated irrigation solution that monitors soil moisture levels and controls water supply efficiently. The system helps reduce water wastage, improve crop productivity, and support sustainable agriculture.
+Project Description
 
-## Objectives
-- Reduce water wastage
-- Automate irrigation
-- Improve crop productivity
-- Enable efficient farm management
+The Smart Irrigation Monitoring System is a web-based application that helps monitor soil moisture levels. It provides a simple dashboard where users can view sensor information and make better irrigation decisions.
 
-## Technologies Used
-- HTML
-- CSS
+Features
+
+- User Login
+- Dashboard
+- Soil Moisture Monitoring
+- Responsive User Interface
+- Easy Navigation
+
+Technologies Used
+
+- HTML5
+- CSS3
 - JavaScript
-- GitHub
 
-## Modules
-1. Login Module
-2. Dashboard Module
-3. Sensor Data Module
-4. Irrigation Control Module
+Project Structure
+
+- index.html – Home page
+- login.html – Login page
+- sensor.html – Sensor monitoring page
+- style.css – Styling
+- script.js – JavaScript functionality
+
+How to Run
+
+1. Download or clone the project.
+2. Open "index.html" in any web browser.
+3. Navigate through the application.
+
+Future Enhancements
+
+- Real-time IoT sensor integration
+- Firebase database support
+- Weather prediction
+- Automatic irrigation control
+
+Author
+
+Sivasathya
